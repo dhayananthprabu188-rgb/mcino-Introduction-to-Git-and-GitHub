@@ -1,0 +1,11 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/9611
+
+"label": "dhayananthprabu188-rgb:main",
+"ref": "main",
+"full_name": "dhayananthprabu188-rgb/mcino-Introduction-to-Git-and-GitHub",
+"fork": true,
+
+"label": "ibm-developer-skills-network:main",
+"ref": "main",
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+"fork": false,
