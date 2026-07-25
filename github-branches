@@ -1,0 +1,18 @@
+curl -s https://api.github.com/repos/dhayananthprabu188-rgb/mcino-Introduction-to-Git-and-GitHub/branches
+
+[
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "e3c5a791d4cb4d267b3c7ffc9bad6d667f441699"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "a384dfd5d4477d7d6fc054f4a3a9bcb0fa761173"
+    },
+    "protected": false
+  }
+]
